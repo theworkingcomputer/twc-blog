@@ -13,14 +13,16 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 
 # Static paths will be copied without parsing
-
-STATIC_PATHS = ['images', 'extra']
+STATIC_PATHS = ['images', 'pages', 'extra']
 
 # Shift the installed location of a file
-
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
+
+# Sole author
+AUTHOR_SAVE_AS = False
+AUTHORS_SAVE_AS = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -43,3 +45,6 @@ DEFAULT_PAGINATION = 4
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Contact
+EMAIL_ADDR = 'david at theworkingcomputer dot com'
