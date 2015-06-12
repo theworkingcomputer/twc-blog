@@ -10,9 +10,11 @@ Seems like "Hello World" is the obligatory coders first try at a new technology.
 
 "legitimate"
 
-I am a perfectionist. My things have to be right. I get around this, in the real world, by recognizing that almost every thing is not mine. And whomever has them can run them howsoever they want.
+I am a perfectionist. My things have to be right. I get around this, in the real world, by recognizing that almost every thing is not mine. And who has them can run them how they wish. I will even help, at need.
 
-I will not point out, here, how many long this, though I will note that I am letting `Pelican <http://docs.getpelican.com/en/3.3.0/getting_started.html>`_ have its head regarding formatting, styles, and themes.
+I will not point out, here, how long "Hello World" has taken in the saying.
+
+Note that I am letting `Pelican <http://docs.getpelican.com/en/3.3.0/getting_started.html>`_ have its head regarding formatting, styles, and themes.
 
 
-Yes, this is made with `Pelican <http://docs.getpelican.com/>`_.
+Yes, this is made with `Pelican <http://docs.getpelican.com/>`_, a great static page generator, made with `Python <http://python.org/>`_. I recommend them both.
