@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 
 # Static paths will be copied without parsing
-STATIC_PATHS = ['images', 'pages', 'extra']
+STATIC_PATHS = ['images', 'pages', 'extra/CNAME']
 
 # Shift the installed location of a file
 EXTRA_PATH_METADATA = {
