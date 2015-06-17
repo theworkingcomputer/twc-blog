@@ -37,6 +37,12 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
+# Themes and plugins
+THEME = "pelican-themes/pelican-bootstrap3"
+BOOTSTRAP_THEME = 'darkly'
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = []
+
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
