@@ -41,7 +41,10 @@ LINKS = (('the Working Computer', 'http://theworkingcomputer.com'),
 THEME = "pelican-themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'darkly'
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = []
+PLUGINS = ['share_post',
+           'bootstrapify',
+           'pelican_comment_system',
+           'neighbors',]
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
