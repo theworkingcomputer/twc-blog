@@ -42,7 +42,6 @@ THEME = "pelican-themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'darkly'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['share_post',
-           'pelican-bootstrapify',
            'pelican_comment_system',
            'neighbors',]
 
