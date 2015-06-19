@@ -44,7 +44,8 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['share_post',
            'pelican_comment_system',
            'neighbors',]
-PELICAN_COMMENT_SYSTEM = True
+# uncomment below to enable pelican_comment_system
+#PELICAN_COMMENT_SYSTEM = True
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
