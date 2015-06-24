@@ -4,7 +4,7 @@ Testing No. 4
 
 :category: Test_posts
 :date: 24 June 2015
-:tags: refinements, Pelican, twc, testing, deployment, journal, bootswatch, bootstrap3, responsive, website
+:tags: refinements, Pelican, testing, deployment, journal
 :slug: test 4
 
 **I am back** after a week of being down the particular rabbit hole that is Windows IT, installing a test environment and repairing/resurrecting a friend's dead laptop, still celebrating my success at deploying a working Pelican installation and new/old blog and getting ready to actually make posts and website for general public consumption. Yeah.
