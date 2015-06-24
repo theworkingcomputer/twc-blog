@@ -1,12 +1,10 @@
-#############
-Testing No. 4
-#############
+############
+More Testing
+############
 
-:category: Test_posts
 :date: 24 June 2015
-:tags: refinements, Pelican, testing, deployment, journal
-:slug: test_04
+:category: Test_posts
+:tags: testing, finalizing
+:slug: finalizing
 
-
-
-Rewrite. Maybe this will work.
+Final testing before real deployment.
