@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'David Moser'
 SITENAME = u'No Antidote for Anhedonia'
-SITEURL = ''
+SITEURL = 'http://twc-blog.theworkingcomputer.com'
 
 PATH = 'content'
 
@@ -19,10 +19,6 @@ STATIC_PATHS = ['images', 'pages', 'extra/CNAME']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
-
-# Sole author
-AUTHOR_SAVE_AS = False
-AUTHORS_SAVE_AS = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -47,9 +43,13 @@ PLUGINS = ['share_post',
 # uncomment below to enable pelican_comment_system
 #PELICAN_COMMENT_SYSTEM = True
 
+# enable disqus comments on site
+DISQUS_SITENAME = "twc-blog.disqus.com"
+
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+
 
 DEFAULT_PAGINATION = 4
 
