@@ -49,9 +49,9 @@ TYPOGRIFY = True
 DISQUS_SITENAME = "twc-blog.disqus.com"
 
 # Social widget
-SOCIAL = (('Facebook', 'facebook.com'),
-          ('Reddit', 'reddit.com'),
-          ('Hacker News', 'news.ycombinator.com'))
+#SOCIAL = (('Facebook', 'facebook.com'),
+#         ('Reddit', 'reddit.com'),
+#         ('Hacker News', 'news.ycombinator.com'))
 
 
 DEFAULT_PAGINATION = 4
