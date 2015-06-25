@@ -40,6 +40,8 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['share_post',
            'pelican_comment_system',
            'neighbors',]
+TYPOGRIFY = True
+
 # uncomment below to enable pelican_comment_system
 #PELICAN_COMMENT_SYSTEM = True
 
@@ -47,8 +49,9 @@ PLUGINS = ['share_post',
 DISQUS_SITENAME = "twc-blog.disqus.com"
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Facebook', 'facebook.com'),
+          ('Reddit', 'reddit.com'),
+          ('Hacker News', 'news.ycombinator.com'))
 
 
 DEFAULT_PAGINATION = 4
