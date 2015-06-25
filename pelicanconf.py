@@ -44,7 +44,7 @@ PLUGINS = ['share_post',
 #PELICAN_COMMENT_SYSTEM = True
 
 # enable disqus comments on site
-DISQUS_SITENAME = "twc-blog.theworkingcomputer.disqus.com"
+DISQUS_SITENAME = "twc-blog.theworkingcomputer.com"
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
