@@ -35,7 +35,7 @@ LINKS = (('the Working Computer', 'http://theworkingcomputer.com'),
 
 # Themes and plugins
 THEME = "pelican-themes/pelican-bootstrap3"
-BOOTSTRAP_THEME = 'darkly'
+BOOTSTRAP_THEME = 'readable'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['share_post',
            'pelican_comment_system',
