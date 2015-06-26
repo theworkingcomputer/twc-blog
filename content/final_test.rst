@@ -6,6 +6,7 @@ final test
 :category: Test_posts
 :tags: testing
 :slug: final
+:status: hidden
 
 *******
 at last

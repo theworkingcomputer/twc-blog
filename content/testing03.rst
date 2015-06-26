@@ -7,6 +7,7 @@ Success!
 :tags: github, testing, themes, plugins
 :slug: Success
 :modified: 18 June 2015
+:status: hidden
 
 So, I finally
 *************

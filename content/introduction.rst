@@ -11,7 +11,7 @@ Introduction
 **In the beginning** seems too arrogant. I will have more to say about anhedonia later, but this is really the start of everything. I have been programming computers since my best friend Doug Booth was given a `Minivac 6010 <http://oldcomputermuseum.com/minivac_6010.html>`_ "computer". We taught it to play tic-tac-toe (not bad for a couple of ten year old kids), a touchstone for me in every new programming language since.
 
 .. figure:: images/minivac-6010.jpg
-   :scale: 75 %
+   :scale: 50 %
    :alt: minivac 6010
 
    The Minivac 6010.

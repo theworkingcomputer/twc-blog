@@ -7,5 +7,6 @@ Hello World
 :slug: hello
 :category: test_posts
 :modified: 14 June 2015
+:status: hidden
 
 First blog post using `Pelican <http://docs.getpelican.com/>`_.
