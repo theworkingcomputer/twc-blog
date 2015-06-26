@@ -127,10 +127,10 @@ So, what is money, really?
 --------------------------
 
 Money is an embodiment of power.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+================================
 
 A short example, with farming (which I enjoy).
-**********************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 One realizes that it is not expensive to grow a certain amount of tasty food with plants, in nearly any human-survivable climate. Supplement the diet, etc. Plant some seed, add water judiciously, plants grow. Food just shows up. But there are caveats. Some work is involved in making the soil ready so that the plants provide plenty of food, then there is the control of pests, the watering every day (the plants don't care whether you may have something else to do or are out of town. If they don't get water, they die.)
 
