@@ -29,6 +29,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('the Working Computer', 'http://theworkingcomputer.com'),
+         ('Krempels Center', 'http://krempelscenter.org'),
+         ('Friends in Action', 'http://friendsinactionnh.org'),
          ('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),)
