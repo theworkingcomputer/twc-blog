@@ -11,9 +11,9 @@ Welcome
 
 to the official (!) blog of the Working Computer, my small effort to bring computers to people who need a different approach than the standard operating system or website.
 
-As a "computer person" and lifetime resident of our society, I recognize that computers are not just common, tricksy, and irritating, but that they provide a background and subtext to life and society. Being served by computers is becoming the basis for much of our social structure and the fundamental support for most of our arts, industries, and politics. However, communities that typically contribute few individuals to the ranks of computer scientists and programmers, are, typically, served poorly by computers.
+As a "computer person" and lifetime resident of our society, I recognize that computers are not merely tricksy, irritating, delicate nuisances, but that they are necessary tools that provide much of the background and subtext to our lives and communities. Being served by computers has become the basis for much of our social structure and the fundamental supportive technology for many of our arts, industries, and politics. However, communities that contribute few individuals to the ranks of computer scientists and programmers are typically served poorly by computers.
 
-Working by the side of individuals who have developmental disabilities and/or brain injuries has convinced me that these people are part of such an underserved community; to serve them is the goal of the Working Computer.
+I have worked by the side of several individuals who have developmental disabilities and/or brain injuries and am convinced that these people are an underserved and valuable community; to serve them is the goal of the Working Computer.
 
 
 Introduction
