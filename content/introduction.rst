@@ -11,15 +11,15 @@ Welcome
 
 to the official (!) blog of the Working Computer, my small effort to bring computers to people who need a different approach than the standard operating system or website.
 
-As a "computer person" and lifetime resident of our society, I recognize that computers are not merely tricksy, irritating, delicate nuisances, but also necessary tools that provide much of the background and subtext to our lives and communities. Being served by computers has become the basis for much of our social structure and the fundamental supportive technology for many of our arts, industries, and politics. However, communities that contribute few individuals to the ranks of computer scientists and programmers are typically served poorly by computers.
+As a "computer person" and lifetime resident of our society, I recognize that computers are not merely tricksy, irritating, delicate nuisances, but also necessary tools that provide much of the background and subtext to our lives and communities. Being served by computers has become the basis for much of our social structure and the fundamental supportive technology for many of our arts, industries, and politics. However, communities that contribute few individuals to the ranks of computer scientists and programmers are often poorly served by computers.
 
-I have worked by the side of several individuals who have developmental disabilities and/or brain injuries and am convinced that these people are an underserved and valuable community; to serve them is the goal of the Working Computer.
+I have worked by the side of several individuals who have developmental disabilities and/or brain injuries and am convinced that these people are a valuable community; to serve them is the goal of the Working Computer.
 
 
 Introduction
 ************
 
-**"In the beginning"** seems too arrogant. I will have more to say about anhedonia later, but this is really the start of everything. I have been programming computers since my (then) best friend Doug Booth was given a `Minivac 6010 <http://oldcomputermuseum.com/minivac_6010.html>`_ "computer". We taught it to play tic-tac-toe (not bad for a couple of ten year old kids); a touchstone for me in every new programming language since.
+**"In the beginning"** seems too arrogant. I will have more to say about anhedonia later, but this is really the start of everything. I have been programming computers, one way or another, since my (then) best friend Doug Booth was given a `Minivac 6010 <http://oldcomputermuseum.com/minivac_6010.html>`_ "computer". We taught it to play tic-tac-toe (not bad for a couple of ten year old kids); a touchstone for me in every new programming language since.
 
 .. figure:: images/minivac-6010.jpg
    :scale: 30 %
@@ -33,7 +33,7 @@ It is not too much
 ******************
 to say that Doug's interest in computers created a similar interest in me. I have always been impressionable that way.
 
-Anyway, No Antidote for Anhedonia aims to be: Occasional thoughts on what the world is, my place in it, programming, economics, family, insects and other inconvenient biology -- the list goes on -- mostly as it applies to my work with `the Working Computer <http://theworkingcomputer.com>`_, a small company devoted to making interesting software that works, and making computers work for people who don't know how computers work.
+Anyway, No Antidote for Anhedonia aims to be: Occasional thoughts on what the world is, my place in it, programming, economics, insects and other inconvenient biology, family, religion -- the list goes on -- mostly as it applies to my work with `the Working Computer <http://theworkingcomputer.com>`_, a small company devoted to making interesting software that works, and making computers work for people who don't know how computers work.
 
 I try to build things
 *********************
