@@ -13,8 +13,6 @@ to the official (!) blog of the Working Computer, my small effort to bring compu
 
 As a "computer person" and lifetime resident of our society, I recognize that computers are not merely tricksy, irritating, delicate nuisances, but also necessary tools that provide much of the background and subtext to our lives and communities. Being served by computers has become the basis for much of our social structure and the fundamental supportive technology for many of our arts, industries, and politics. However, communities that contribute few individuals to the ranks of computer scientists and programmers are often poorly served by computers.
 
-I have worked by the side of several individuals who have developmental disabilities and/or brain injuries and am convinced that these people are a valuable community; to serve them is the goal of the Working Computer.
-
 
 Introduction
 ************
