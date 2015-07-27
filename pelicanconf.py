@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'David Moser'
-SITENAME = u'No Antidote for Anhedonia'
+SITENAME = u'A Splendid Chaos'
 SITEURL = 'http://twc-blog.theworkingcomputer.com'
 
 PATH = 'content'
