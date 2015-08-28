@@ -31,7 +31,7 @@ It is not too much
 ******************
 to say that Doug's interest in computers created a similar interest in me. I have always been impressionable that way.
 
-Anyway, No Antidote for Anhedonia aims to be: Occasional thoughts on what the world is, my place in it, programming, economics, insects and other inconvenient biology, family, religion -- the list goes on -- mostly as it applies to my work with `the Working Computer <http://theworkingcomputer.com>`_, a small company devoted to making interesting software that works, and making computers work for people who don't know how computers work.
+Anyway, **"A Splendid Chaos"** aims to be: Occasional thoughts on what the world is, my place in it, programming, economics, insects and other inconvenient biology, family, religion -- the list goes on -- mostly as it applies to my work with `the Working Computer <http://theworkingcomputer.com>`_, a small company devoted to making interesting software that works, and making computers work for people who don't know how computers work.
 
 I try to build things
 *********************
